@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='image_d531ee.png' alt='Maison Liann Estates Logo' width='250'/>
+  <img src='logo 1.JPG' alt='Maison Liann Estates Logo' width='250'/>
   
   # 🏛️ Maison Liann Estates
   **Premium Residential & Commercial Real Estate Portal**
