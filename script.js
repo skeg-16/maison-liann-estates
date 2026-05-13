@@ -243,8 +243,8 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    document.getElementById('videoTrigger').addEventListener('click', () => {
-        tourVideo.src = 'https://www.youtube.com/embed/k4JbE2x1kM4?autoplay=1&mute=1'; 
+  document.getElementById('videoTrigger').addEventListener('click', () => {
+        tourVideo.src = 'https://www.youtube.com/embed/EXUt03xmFhw?autoplay=1&mute=1&rel=0'; 
         videoModal.classList.add('active');
     });
 
